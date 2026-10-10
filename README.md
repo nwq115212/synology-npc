@@ -21,9 +21,12 @@
 ## 安装
 
 1. 从 Releases 下载与你的 DSM 版本对应的 `.spk` 文件。
-2. 打开套件中心，选择"手动安装"，然后选中下载的文件。
-3. DSM 6 用户需要先到 套件中心 → 设置 → 常规 → 信任层级，选择"任何发行者"。
+**DSM6**：https://github.com/nwq115212/synology-npc/releases/download/%E4%B8%8B%E8%BD%BD%E7%82%B9%E8%BF%99/npcclient-0.26.38-0002_dsm6_amd64-arm64.spk
+**DSM7**：https://github.com/nwq115212/synology-npc/releases/download/%E4%B8%8B%E8%BD%BD%E7%82%B9%E8%BF%99/npcclient-0.26.38-0002_dsm7_amd64-arm64.spk
+3. 打开套件中心，选择"手动安装"，然后选中下载的文件。
+4. DSM 6 用户需要先到 套件中心 → 设置 → 常规 → 信任层级，选择"任何发行者"。
 
 ## 声明
 
 本程序由 AI 编写，不保证可用性，使用风险自负。
+仅在dsm7上验证过可行性，dsm6太老了没设备
