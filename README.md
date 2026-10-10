@@ -1,6 +1,5 @@
 # NPC 网络穿透 · 群晖套件
-
-把 [NPS](https://github.com/ehang-io/nps) 内网穿透客户端 npc 打包成群晖套件。安装后，在 DSM 里用图形界面就能管理，不需要 SSH 登录敲命令。
+把 [yisier/NPS](https://github.com/yisier/nps) 内网穿透客户端 npc 打包成群晖套件。安装后，在 DSM 里用图形界面就能管理，不需要 SSH 登录敲命令。
 
 ## 功能
 
